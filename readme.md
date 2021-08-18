@@ -23,7 +23,7 @@ Data files are as follows:
 7. Seattle-reviews.csv
 
 Python code:
-1. AirBnB_Data_Analysis
+1. AirBnB_Data_Analysis.ipynb
 
 ### Author
 Saurabh Daphtardar
