@@ -1,7 +1,7 @@
 ## Project Title
 AirBnB data analysis
 Blog post describing result of the analysis is present at:
-
+https://medium.com/@saurabh.sdaphtardar/got-some-extra-room-s-thinking-of-putting-it-for-rent-read-on-for-useful-information-91db6f1e846
 
 
 ## Project Description
