@@ -14,10 +14,10 @@ Motivation for this project is to analyze existing data and discover insights re
 
 ### Files:
 Data files are as follows:
-1. AirBnB_Data_Analysis.ipynb  
-2. Boston-calendar.csv  
-3. Boston-listings.csv  
-4. Boston-reviews.csv  
+
+1. Boston-calendar.csv  
+2. Boston-listings.csv  
+3. Boston-reviews.csv  
 
 Python code:
 1. AirBnB_Data_Analysis.ipynb
